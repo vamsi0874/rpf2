@@ -1,7 +1,7 @@
 {
   "homepage": "https://vamsi0874.github.io/rpf2/",
   "name": "rpf2",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
